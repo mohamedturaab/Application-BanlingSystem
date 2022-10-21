@@ -1,0 +1,1 @@
+package Inherince;public class Main {    public static void main(String[] args) {        Samsumg sm = new Samsumg();       sm.makeCell();    }}

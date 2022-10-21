@@ -1,0 +1,1 @@
+package Employee;public class Main {    public static void main(String[] args) {        Employee employee = new Employee(19282,"Omar ","Jibril Abdulkadir",1000);        System.out.println(employee.dispalyInfo());    }}

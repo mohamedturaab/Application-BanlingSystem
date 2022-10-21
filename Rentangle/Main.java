@@ -1,0 +1,1 @@
+package Rentangle;public class Main {    public static void main(String[] args) {      Rectanglc rectanglc =  new Rectanglc();        System.out.println(rectanglc.display());        System.out.println("__________________");        Rectanglc   rectanglc1 = new Rectanglc();    }}

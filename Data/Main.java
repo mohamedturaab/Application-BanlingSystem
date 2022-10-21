@@ -1,0 +1,1 @@
+package Data;public class Main {    public static void main(String[] args) {        DataMonth dataMonth = new DataMonth(2,10,2022);        System.out.println(dataMonth.Displayinfo());    }}
